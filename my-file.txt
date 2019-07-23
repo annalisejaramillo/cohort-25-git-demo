@@ -1,3 +1,5 @@
 My file for the bootcamp.
 
 im writing some cool stuff.
+
+this git branching stuff is both new and confusing.
